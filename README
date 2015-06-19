@@ -1,0 +1,4 @@
+1. run "nix-shell --pure" and the npm install will fail
+2. delete "node_modules"
+3. run "npm install" from the shell and it'll succeed
+4. be confused as to why this is
